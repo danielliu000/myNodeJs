@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "mkdirp": "^1.0.4",
+    "mongodb": "^3.5.9",
+    "node-http-server": "^8.1.2"
+  }
+}
