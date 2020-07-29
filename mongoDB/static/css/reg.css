@@ -1,0 +1,12 @@
+h2 {
+  color: red;
+  margin-left: 10px;
+}
+
+.username, .age, .submit {
+  width: 100px;
+  margin: 10px;
+}
+input {
+  margin-top: 5px;
+}
